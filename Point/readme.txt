@@ -1,0 +1,1 @@
+This simple C++ program is designed to relate two points to eachother given the x and y value of each of the points. There are two files, one which is a point class and the other which is the driver and main method to run the program
