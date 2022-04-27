@@ -1,0 +1,1 @@
+This is a simple calculator program in c that implements a stack to do operations. Once an operation is encountered, the top two numbers on the stack are evaluated and the result is put on the stack. An example of an input from the command line is shown in the provided test file.
